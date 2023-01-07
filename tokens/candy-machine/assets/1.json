@@ -1,0 +1,16 @@
+{
+    "name": "Beer",
+    "symbol": "FYN",
+    "description": "This is my first NFT Collection",
+    "image": "assets/1.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "assets/1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+
+}

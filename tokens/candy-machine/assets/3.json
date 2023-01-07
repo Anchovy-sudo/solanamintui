@@ -1,0 +1,16 @@
+{
+    "name": "Anchovy",
+    "symbol": "FYN",
+    "description": "This is my first NFT Collection",
+    "image": "assets/3.jpg",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "assets/3.jpg",
+                "type": "image/jpg"
+            }
+        ]
+    }
+
+}

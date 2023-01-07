@@ -1,0 +1,16 @@
+{
+    "name": "Saturn",
+    "symbol": "FYN",
+    "description": "This is my first NFT Collection",
+    "image": "assets/2.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "assets/2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+
+}

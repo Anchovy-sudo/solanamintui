@@ -1,0 +1,16 @@
+{
+    "name": "Fox",
+    "symbol": "FYN",
+    "description": "This is my first NFT Collection",
+    "image": "assets/0.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "assets/0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+
+}

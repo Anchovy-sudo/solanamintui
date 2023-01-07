@@ -1,0 +1,16 @@
+{
+    "name": "Life",
+    "symbol": "FYN",
+    "description": "This is my first NFT Collection",
+    "image": "assets/4.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "assets/4.png",
+                "type": "image/png"
+            }
+        ]
+    }
+
+}
